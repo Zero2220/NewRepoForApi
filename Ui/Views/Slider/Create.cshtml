@@ -1,0 +1,29 @@
+﻿@using Ui.Models.Sliders
+@model SliderCreateRequest
+
+
+<form asp-action="Create" method="post" enctype="multipart/form-data">
+    
+    <div class="form-group">
+        <label for="exampleInputEmail1">Word1 max Ch30</label>
+        <input asp-for="Word1" class=" form-control" id="exampleInputEmail1" placeholder="Enter email">
+    </div>
+    <div class="form-group" >
+        <label for="exampleInputEmail1">Word2</label>
+        <input asp-for="Word2" class="form-control" id="exampleInputEmail1" placeholder="Enter email">
+    </div>
+    <div class="form-group" >
+        <label for="exampleInputEmail1">Text2</label>
+        <input asp-for="Text2" class="form-control" id="exampleInputEmail1" placeholder="Enter email">
+    </div>
+    <div class="form-group" asp-for="Word1">
+        <label for="exampleInputEmail1">RedWord</label>
+        <input asp-for="RedWord" class="form-control" id="exampleInputEmail1" placeholder="Enter email">
+    </div>
+    <div class="form-group">
+        <label  class="control-label">Image Files</label>
+        <input asp-for="File" class="form-control" type="file" multiple />
+    </div>
+    
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

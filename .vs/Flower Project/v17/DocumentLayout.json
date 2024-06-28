@@ -1,0 +1,1366 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anarpi\\Desktop\\Api-Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{823F7770-E62B-41C6-81D9-996EB2D45059}|Flower Project\\FlowerProject.csproj|c:\\users\\anarpi\\desktop\\api-application\\flower project\\middlewares\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823F7770-E62B-41C6-81D9-996EB2D45059}|Flower Project\\FlowerProject.csproj|solutionrelative:flower project\\middlewares\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|c:\\users\\anarpi\\desktop\\api-application\\ui\\services\\implementations\\crudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|solutionrelative:ui\\services\\implementations\\crudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|c:\\users\\anarpi\\desktop\\api-application\\ui\\models\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|solutionrelative:ui\\models\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|c:\\users\\anarpi\\desktop\\api-application\\ui\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|solutionrelative:ui\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823F7770-E62B-41C6-81D9-996EB2D45059}|Flower Project\\FlowerProject.csproj|c:\\users\\anarpi\\desktop\\api-application\\flower project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823F7770-E62B-41C6-81D9-996EB2D45059}|Flower Project\\FlowerProject.csproj|solutionrelative:flower project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|c:\\users\\anarpi\\desktop\\api-application\\ui\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|solutionrelative:ui\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|c:\\users\\anarpi\\desktop\\api-application\\ui\\services\\interfaces\\icrudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|solutionrelative:ui\\services\\interfaces\\icrudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|c:\\users\\anarpi\\desktop\\api-application\\ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|solutionrelative:ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|c:\\users\\anarpi\\desktop\\api-application\\ui\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|solutionrelative:ui\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823F7770-E62B-41C6-81D9-996EB2D45059}|Flower Project\\FlowerProject.csproj|c:\\users\\anarpi\\desktop\\api-application\\flower project\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823F7770-E62B-41C6-81D9-996EB2D45059}|Flower Project\\FlowerProject.csproj|solutionrelative:flower project\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|c:\\users\\anarpi\\desktop\\api-application\\service\\dtos\\sliderdtos\\slidercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|solutionrelative:service\\dtos\\sliderdtos\\slidercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|c:\\users\\anarpi\\desktop\\api-application\\ui\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|solutionrelative:ui\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823F7770-E62B-41C6-81D9-996EB2D45059}|Flower Project\\FlowerProject.csproj|c:\\users\\anarpi\\desktop\\api-application\\flower project\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823F7770-E62B-41C6-81D9-996EB2D45059}|Flower Project\\FlowerProject.csproj|solutionrelative:flower project\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|c:\\users\\anarpi\\desktop\\api-application\\ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|solutionrelative:ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|c:\\users\\anarpi\\desktop\\api-application\\ui\\controllers\\flowercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|solutionrelative:ui\\controllers\\flowercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|c:\\users\\anarpi\\desktop\\api-application\\ui\\models\\sliders\\slidercreaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|solutionrelative:ui\\models\\sliders\\slidercreaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823F7770-E62B-41C6-81D9-996EB2D45059}|Flower Project\\FlowerProject.csproj|c:\\users\\anarpi\\desktop\\api-application\\flower project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{823F7770-E62B-41C6-81D9-996EB2D45059}|Flower Project\\FlowerProject.csproj|solutionrelative:flower project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|c:\\users\\anarpi\\desktop\\api-application\\ui\\models\\sliders\\slidergetrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|solutionrelative:ui\\models\\sliders\\slidergetrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|c:\\users\\anarpi\\desktop\\api-application\\ui\\models\\createresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|solutionrelative:ui\\models\\createresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823F7770-E62B-41C6-81D9-996EB2D45059}|Flower Project\\FlowerProject.csproj|c:\\users\\anarpi\\desktop\\api-application\\flower project\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{823F7770-E62B-41C6-81D9-996EB2D45059}|Flower Project\\FlowerProject.csproj|solutionrelative:flower project\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|c:\\users\\anarpi\\desktop\\api-application\\ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|solutionrelative:ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|c:\\users\\anarpi\\desktop\\api-application\\ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|solutionrelative:ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|c:\\users\\anarpi\\desktop\\api-application\\ui\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|solutionrelative:ui\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|c:\\users\\anarpi\\desktop\\api-application\\ui\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|solutionrelative:ui\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6674FAF-EE79-467B-BC22-5B6E1A21440B}|Core\\Core.csproj|c:\\users\\anarpi\\desktop\\api-application\\core\\entities\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6674FAF-EE79-467B-BC22-5B6E1A21440B}|Core\\Core.csproj|solutionrelative:core\\entities\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|c:\\users\\anarpi\\desktop\\api-application\\ui\\models\\flowers\\flowerupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|solutionrelative:ui\\models\\flowers\\flowerupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|c:\\users\\anarpi\\desktop\\api-application\\ui\\models\\flowers\\flowercreaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|solutionrelative:ui\\models\\flowers\\flowercreaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|c:\\users\\anarpi\\desktop\\api-application\\ui\\models\\flowers\\flowergetrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|solutionrelative:ui\\models\\flowers\\flowergetrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|c:\\users\\anarpi\\desktop\\api-application\\ui\\exceptions\\modelexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|solutionrelative:ui\\exceptions\\modelexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|c:\\users\\anarpi\\desktop\\api-application\\ui\\exceptions\\httpexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|solutionrelative:ui\\exceptions\\httpexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|c:\\users\\anarpi\\desktop\\api-application\\ui\\models\\paginatedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|solutionrelative:ui\\models\\paginatedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|c:\\users\\anarpi\\desktop\\api-application\\ui\\models\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|solutionrelative:ui\\models\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|c:\\users\\anarpi\\desktop\\api-application\\service\\dtos\\flowerdtos\\flowercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|solutionrelative:service\\dtos\\flowerdtos\\flowercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|c:\\users\\anarpi\\desktop\\api-application\\service\\dtos\\flowerdtos\\flowereditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|solutionrelative:service\\dtos\\flowerdtos\\flowereditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|c:\\users\\anarpi\\desktop\\api-application\\service\\dtos\\flowerdtos\\getflowerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|solutionrelative:service\\dtos\\flowerdtos\\getflowerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|c:\\users\\anarpi\\desktop\\api-application\\service\\dtos\\users\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|solutionrelative:service\\dtos\\users\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|c:\\users\\anarpi\\desktop\\api-application\\service\\dtos\\getcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|solutionrelative:service\\dtos\\getcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|c:\\users\\anarpi\\desktop\\api-application\\service\\extensions\\fileextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|solutionrelative:service\\extensions\\fileextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|c:\\users\\anarpi\\desktop\\api-application\\service\\implementations\\sliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|solutionrelative:service\\implementations\\sliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|c:\\users\\anarpi\\desktop\\api-application\\service\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|solutionrelative:service\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823F7770-E62B-41C6-81D9-996EB2D45059}|Flower Project\\FlowerProject.csproj|c:\\users\\anarpi\\desktop\\api-application\\flower project\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823F7770-E62B-41C6-81D9-996EB2D45059}|Flower Project\\FlowerProject.csproj|solutionrelative:flower project\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|c:\\users\\anarpi\\desktop\\api-application\\service\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|solutionrelative:service\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|c:\\users\\anarpi\\desktop\\api-application\\service\\implementations\\flowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|solutionrelative:service\\implementations\\flowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|c:\\users\\anarpi\\desktop\\api-application\\service\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|solutionrelative:service\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|c:\\users\\anarpi\\desktop\\api-application\\service\\interfaces\\isliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|solutionrelative:service\\interfaces\\isliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|c:\\users\\anarpi\\desktop\\api-application\\service\\dtos\\sliderdtos\\slidergetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|solutionrelative:service\\dtos\\sliderdtos\\slidergetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|c:\\users\\anarpi\\desktop\\api-application\\service\\interfaces\\iflowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|solutionrelative:service\\interfaces\\iflowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|c:\\users\\anarpi\\desktop\\api-application\\service\\dtos\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|solutionrelative:service\\dtos\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823F7770-E62B-41C6-81D9-996EB2D45059}|Flower Project\\FlowerProject.csproj|c:\\users\\anarpi\\desktop\\api-application\\flower project\\controllers\\flowercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823F7770-E62B-41C6-81D9-996EB2D45059}|Flower Project\\FlowerProject.csproj|solutionrelative:flower project\\controllers\\flowercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF66934-CD32-4D8E-B329-DB43D4B4B104}|Data\\Data.csproj|c:\\users\\anarpi\\desktop\\api-application\\data\\repostitories\\implementations\\flowerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF66934-CD32-4D8E-B329-DB43D4B4B104}|Data\\Data.csproj|solutionrelative:data\\repostitories\\implementations\\flowerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF66934-CD32-4D8E-B329-DB43D4B4B104}|Data\\Data.csproj|c:\\users\\anarpi\\desktop\\api-application\\data\\repostitories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF66934-CD32-4D8E-B329-DB43D4B4B104}|Data\\Data.csproj|solutionrelative:data\\repostitories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF66934-CD32-4D8E-B329-DB43D4B4B104}|Data\\Data.csproj|c:\\users\\anarpi\\desktop\\api-application\\data\\repostitories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF66934-CD32-4D8E-B329-DB43D4B4B104}|Data\\Data.csproj|solutionrelative:data\\repostitories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6674FAF-EE79-467B-BC22-5B6E1A21440B}|Core\\Core.csproj|c:\\users\\anarpi\\desktop\\api-application\\core\\entities\\flowerimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6674FAF-EE79-467B-BC22-5B6E1A21440B}|Core\\Core.csproj|solutionrelative:core\\entities\\flowerimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6674FAF-EE79-467B-BC22-5B6E1A21440B}|Core\\Core.csproj|c:\\users\\anarpi\\desktop\\api-application\\core\\entities\\flower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6674FAF-EE79-467B-BC22-5B6E1A21440B}|Core\\Core.csproj|solutionrelative:core\\entities\\flower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF66934-CD32-4D8E-B329-DB43D4B4B104}|Data\\Data.csproj|c:\\users\\anarpi\\desktop\\api-application\\data\\repostitories\\implementations\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF66934-CD32-4D8E-B329-DB43D4B4B104}|Data\\Data.csproj|solutionrelative:data\\repostitories\\implementations\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF66934-CD32-4D8E-B329-DB43D4B4B104}|Data\\Data.csproj|c:\\users\\anarpi\\desktop\\api-application\\data\\flowerstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF66934-CD32-4D8E-B329-DB43D4B4B104}|Data\\Data.csproj|solutionrelative:data\\flowerstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|c:\\users\\anarpi\\desktop\\api-application\\service\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|solutionrelative:service\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF66934-CD32-4D8E-B329-DB43D4B4B104}|Data\\Data.csproj|c:\\users\\anarpi\\desktop\\api-application\\data\\repostitories\\interfaces\\isliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF66934-CD32-4D8E-B329-DB43D4B4B104}|Data\\Data.csproj|solutionrelative:data\\repostitories\\interfaces\\isliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|c:\\users\\anarpi\\desktop\\api-application\\service\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|solutionrelative:service\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|c:\\users\\anarpi\\desktop\\api-application\\service\\dtos\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|solutionrelative:service\\dtos\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|c:\\users\\anarpi\\desktop\\api-application\\service\\dtos\\categoryeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|solutionrelative:service\\dtos\\categoryeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF66934-CD32-4D8E-B329-DB43D4B4B104}|Data\\Data.csproj|c:\\users\\anarpi\\desktop\\api-application\\data\\configurations\\flowerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF66934-CD32-4D8E-B329-DB43D4B4B104}|Data\\Data.csproj|solutionrelative:data\\configurations\\flowerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF66934-CD32-4D8E-B329-DB43D4B4B104}|Data\\Data.csproj|c:\\users\\anarpi\\desktop\\api-application\\data\\configurations\\flowercategoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF66934-CD32-4D8E-B329-DB43D4B4B104}|Data\\Data.csproj|solutionrelative:data\\configurations\\flowercategoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF66934-CD32-4D8E-B329-DB43D4B4B104}|Data\\Data.csproj|c:\\users\\anarpi\\desktop\\api-application\\data\\configurations\\flowertagconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF66934-CD32-4D8E-B329-DB43D4B4B104}|Data\\Data.csproj|solutionrelative:data\\configurations\\flowertagconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF66934-CD32-4D8E-B329-DB43D4B4B104}|Data\\Data.csproj|c:\\users\\anarpi\\desktop\\api-application\\data\\configurations\\tagconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF66934-CD32-4D8E-B329-DB43D4B4B104}|Data\\Data.csproj|solutionrelative:data\\configurations\\tagconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6674FAF-EE79-467B-BC22-5B6E1A21440B}|Core\\Core.csproj|c:\\users\\anarpi\\desktop\\api-application\\core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6674FAF-EE79-467B-BC22-5B6E1A21440B}|Core\\Core.csproj|solutionrelative:core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF66934-CD32-4D8E-B329-DB43D4B4B104}|Data\\Data.csproj|c:\\users\\anarpi\\desktop\\api-application\\data\\repostitories\\interfaces\\iflowerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF66934-CD32-4D8E-B329-DB43D4B4B104}|Data\\Data.csproj|solutionrelative:data\\repostitories\\interfaces\\iflowerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF66934-CD32-4D8E-B329-DB43D4B4B104}|Data\\Data.csproj|c:\\users\\anarpi\\desktop\\api-application\\data\\repostitories\\implementations\\sliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF66934-CD32-4D8E-B329-DB43D4B4B104}|Data\\Data.csproj|solutionrelative:data\\repostitories\\implementations\\sliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF66934-CD32-4D8E-B329-DB43D4B4B104}|Data\\Data.csproj|c:\\users\\anarpi\\desktop\\api-application\\data\\repostitories\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF66934-CD32-4D8E-B329-DB43D4B4B104}|Data\\Data.csproj|solutionrelative:data\\repostitories\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF66934-CD32-4D8E-B329-DB43D4B4B104}|Data\\Data.csproj|c:\\users\\anarpi\\desktop\\api-application\\data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4EF66934-CD32-4D8E-B329-DB43D4B4B104}|Data\\Data.csproj|solutionrelative:data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6674FAF-EE79-467B-BC22-5B6E1A21440B}|Core\\Core.csproj|c:\\users\\anarpi\\desktop\\api-application\\core\\entities\\auditentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6674FAF-EE79-467B-BC22-5B6E1A21440B}|Core\\Core.csproj|solutionrelative:core\\entities\\auditentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6674FAF-EE79-467B-BC22-5B6E1A21440B}|Core\\Core.csproj|c:\\users\\anarpi\\desktop\\api-application\\core\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6674FAF-EE79-467B-BC22-5B6E1A21440B}|Core\\Core.csproj|solutionrelative:core\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF66934-CD32-4D8E-B329-DB43D4B4B104}|Data\\Data.csproj|c:\\users\\anarpi\\desktop\\api-application\\data\\migrations\\20240624130841_newinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF66934-CD32-4D8E-B329-DB43D4B4B104}|Data\\Data.csproj|solutionrelative:data\\migrations\\20240624130841_newinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF66934-CD32-4D8E-B329-DB43D4B4B104}|Data\\Data.csproj|c:\\users\\anarpi\\desktop\\api-application\\data\\migrations\\flowerstoredbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF66934-CD32-4D8E-B329-DB43D4B4B104}|Data\\Data.csproj|solutionrelative:data\\migrations\\flowerstoredbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Desktop\\Flower Project\\Data\\Migrations\\20240624130413_change.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823F7770-E62B-41C6-81D9-996EB2D45059}|Flower Project\\FlowerProject.csproj|c:\\users\\anarpi\\desktop\\api-application\\flower project\\flowerproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{823F7770-E62B-41C6-81D9-996EB2D45059}|Flower Project\\FlowerProject.csproj|solutionrelative:flower project\\flowerproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823F7770-E62B-41C6-81D9-996EB2D45059}|Flower Project\\FlowerProject.csproj|c:\\users\\anarpi\\desktop\\api-application\\flower project\\flowerproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{823F7770-E62B-41C6-81D9-996EB2D45059}|Flower Project\\FlowerProject.csproj|solutionrelative:flower project\\flowerproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6674FAF-EE79-467B-BC22-5B6E1A21440B}|Core\\Core.csproj|c:\\users\\anarpi\\desktop\\api-application\\core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C6674FAF-EE79-467B-BC22-5B6E1A21440B}|Core\\Core.csproj|solutionrelative:core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF66934-CD32-4D8E-B329-DB43D4B4B104}|Data\\Data.csproj|c:\\users\\anarpi\\desktop\\api-application\\data\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF66934-CD32-4D8E-B329-DB43D4B4B104}|Data\\Data.csproj|solutionrelative:data\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF66934-CD32-4D8E-B329-DB43D4B4B104}|Data\\Data.csproj|c:\\users\\anarpi\\desktop\\api-application\\data\\migrations\\20240625120447_new2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF66934-CD32-4D8E-B329-DB43D4B4B104}|Data\\Data.csproj|solutionrelative:data\\migrations\\20240625120447_new2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF66934-CD32-4D8E-B329-DB43D4B4B104}|Data\\Data.csproj|c:\\users\\anarpi\\desktop\\api-application\\data\\migrations\\20240625115417_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF66934-CD32-4D8E-B329-DB43D4B4B104}|Data\\Data.csproj|solutionrelative:data\\migrations\\20240625115417_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF66934-CD32-4D8E-B329-DB43D4B4B104}|Data\\Data.csproj|c:\\users\\anarpi\\desktop\\api-application\\data\\migrations\\20240625093240_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF66934-CD32-4D8E-B329-DB43D4B4B104}|Data\\Data.csproj|solutionrelative:data\\migrations\\20240625093240_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF66934-CD32-4D8E-B329-DB43D4B4B104}|Data\\Data.csproj|c:\\users\\anarpi\\desktop\\api-application\\data\\migrations\\20240626170509_flowerstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF66934-CD32-4D8E-B329-DB43D4B4B104}|Data\\Data.csproj|solutionrelative:data\\migrations\\20240626170509_flowerstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExceptionHandlerMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Flower Project\\Middlewares\\ExceptionHandlerMiddleware.cs",
+              "RelativeDocumentMoniker": "Flower Project\\Middlewares\\ExceptionHandlerMiddleware.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Flower Project\\Middlewares\\ExceptionHandlerMiddleware.cs",
+              "RelativeToolTip": "Flower Project\\Middlewares\\ExceptionHandlerMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:24:18.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CrudService.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Ui\\Services\\Implementations\\CrudService.cs",
+              "RelativeDocumentMoniker": "Ui\\Services\\Implementations\\CrudService.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Ui\\Services\\Implementations\\CrudService.cs",
+              "RelativeToolTip": "Ui\\Services\\Implementations\\CrudService.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAYwFoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T19:42:53.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Ui\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Ui\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Ui\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Ui\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T15:45:09.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Ui\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "Ui\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Ui\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "Ui\\Controllers\\SliderController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA9wBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T15:54:16.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Ui\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Ui\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Ui\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Ui\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T17:06:58.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Ui\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ui\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Ui\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Ui\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T17:06:58.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Flower Project\\Program.cs",
+              "RelativeDocumentMoniker": "Flower Project\\Program.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Flower Project\\Program.cs",
+              "RelativeToolTip": "Flower Project\\Program.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAADEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T06:10:32.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorResponse.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Ui\\Models\\ErrorResponse.cs",
+              "RelativeDocumentMoniker": "Ui\\Models\\ErrorResponse.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Ui\\Models\\ErrorResponse.cs",
+              "RelativeToolTip": "Ui\\Models\\ErrorResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T19:53:41.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Ui\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Ui\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Ui\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "Ui\\Models\\LoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T19:42:19.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICrudService.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Ui\\Services\\Interfaces\\ICrudService.cs",
+              "RelativeDocumentMoniker": "Ui\\Services\\Interfaces\\ICrudService.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Ui\\Services\\Interfaces\\ICrudService.cs",
+              "RelativeToolTip": "Ui\\Services\\Interfaces\\ICrudService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T19:23:53.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Ui\\Views\\Slider\\Create.cshtml",
+              "RelativeDocumentMoniker": "Ui\\Views\\Slider\\Create.cshtml",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Ui\\Views\\Slider\\Create.cshtml",
+              "RelativeToolTip": "Ui\\Views\\Slider\\Create.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T16:02:15.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SliderCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Service\\Dtos\\SliderDtos\\SliderCreateDto.cs",
+              "RelativeDocumentMoniker": "Service\\Dtos\\SliderDtos\\SliderCreateDto.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Service\\Dtos\\SliderDtos\\SliderCreateDto.cs",
+              "RelativeToolTip": "Service\\Dtos\\SliderDtos\\SliderCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T14:28:09.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Flower Project\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "Flower Project\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Flower Project\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "Flower Project\\Controllers\\SliderController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvxMAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T22:28:53.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Flower Project\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Flower Project\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Flower Project\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Flower Project\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAAAEgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T16:07:22.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SliderCreateRequest.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Ui\\Models\\Sliders\\SliderCreateRequest.cs",
+              "RelativeDocumentMoniker": "Ui\\Models\\Sliders\\SliderCreateRequest.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Ui\\Models\\Sliders\\SliderCreateRequest.cs",
+              "RelativeToolTip": "Ui\\Models\\Sliders\\SliderCreateRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T15:48:16.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FlowerController.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Ui\\Controllers\\FlowerController.cs",
+              "RelativeDocumentMoniker": "Ui\\Controllers\\FlowerController.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Ui\\Controllers\\FlowerController.cs",
+              "RelativeToolTip": "Ui\\Controllers\\FlowerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T19:56:13.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Flower Project\\appsettings.json",
+              "RelativeDocumentMoniker": "Flower Project\\appsettings.json",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Flower Project\\appsettings.json",
+              "RelativeToolTip": "Flower Project\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-27T12:12:04.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SliderGetRequest.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Ui\\Models\\Sliders\\SliderGetRequest.cs",
+              "RelativeDocumentMoniker": "Ui\\Models\\Sliders\\SliderGetRequest.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Ui\\Models\\Sliders\\SliderGetRequest.cs",
+              "RelativeToolTip": "Ui\\Models\\Sliders\\SliderGetRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T15:49:27.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreateResponse.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Ui\\Models\\CreateResponse.cs",
+              "RelativeDocumentMoniker": "Ui\\Models\\CreateResponse.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Ui\\Models\\CreateResponse.cs",
+              "RelativeToolTip": "Ui\\Models\\CreateResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T19:49:42.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Flower Project\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Flower Project\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Flower Project\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Flower Project\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-24T12:59:13.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Ui\\Program.cs",
+              "RelativeDocumentMoniker": "Ui\\Program.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Ui\\Program.cs",
+              "RelativeToolTip": "Ui\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T15:38:40.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Ui\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Ui\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Ui\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Ui\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T16:23:12.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Ui\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Ui\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Ui\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Ui\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T16:23:43.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Ui\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Ui\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Ui\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Ui\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T19:20:18.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Core\\Entities\\Slider.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Slider.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Core\\Entities\\Slider.cs",
+              "RelativeToolTip": "Core\\Entities\\Slider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T08:57:05.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FlowerUpdateRequest.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Ui\\Models\\Flowers\\FlowerUpdateRequest.cs",
+              "RelativeDocumentMoniker": "Ui\\Models\\Flowers\\FlowerUpdateRequest.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Ui\\Models\\Flowers\\FlowerUpdateRequest.cs",
+              "RelativeToolTip": "Ui\\Models\\Flowers\\FlowerUpdateRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T20:15:45.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ModelException.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Ui\\Exceptions\\ModelException.cs",
+              "RelativeDocumentMoniker": "Ui\\Exceptions\\ModelException.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Ui\\Exceptions\\ModelException.cs",
+              "RelativeToolTip": "Ui\\Exceptions\\ModelException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T19:54:27.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FlowerCreateRequest.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Ui\\Models\\Flowers\\FlowerCreateRequest.cs",
+              "RelativeDocumentMoniker": "Ui\\Models\\Flowers\\FlowerCreateRequest.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Ui\\Models\\Flowers\\FlowerCreateRequest.cs",
+              "RelativeToolTip": "Ui\\Models\\Flowers\\FlowerCreateRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T20:07:44.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FlowerGetRequest.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Ui\\Models\\Flowers\\FlowerGetRequest.cs",
+              "RelativeDocumentMoniker": "Ui\\Models\\Flowers\\FlowerGetRequest.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Ui\\Models\\Flowers\\FlowerGetRequest.cs",
+              "RelativeToolTip": "Ui\\Models\\Flowers\\FlowerGetRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T20:16:25.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "HttpException.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Ui\\Exceptions\\HttpException.cs",
+              "RelativeDocumentMoniker": "Ui\\Exceptions\\HttpException.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Ui\\Exceptions\\HttpException.cs",
+              "RelativeToolTip": "Ui\\Exceptions\\HttpException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T19:53:01.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PaginatedResponse.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Ui\\Models\\PaginatedResponse.cs",
+              "RelativeDocumentMoniker": "Ui\\Models\\PaginatedResponse.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Ui\\Models\\PaginatedResponse.cs",
+              "RelativeToolTip": "Ui\\Models\\PaginatedResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T19:40:38.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Ui\\Models\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "Ui\\Models\\LoginResponse.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Ui\\Models\\LoginResponse.cs",
+              "RelativeToolTip": "Ui\\Models\\LoginResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T19:42:28.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Service\\Dtos\\Users\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Service\\Dtos\\Users\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Service\\Dtos\\Users\\LoginDto.cs",
+              "RelativeToolTip": "Service\\Dtos\\Users\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T10:34:34.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FileExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Service\\Extensions\\FileExtensions.cs",
+              "RelativeDocumentMoniker": "Service\\Extensions\\FileExtensions.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Service\\Extensions\\FileExtensions.cs",
+              "RelativeToolTip": "Service\\Extensions\\FileExtensions.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAABQwCQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:54:54.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "GetCategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Service\\Dtos\\GetCategoryDto.cs",
+              "RelativeDocumentMoniker": "Service\\Dtos\\GetCategoryDto.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Service\\Dtos\\GetCategoryDto.cs",
+              "RelativeToolTip": "Service\\Dtos\\GetCategoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T16:51:16.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GetFlowerDto.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Service\\Dtos\\FlowerDtos\\GetFlowerDto.cs",
+              "RelativeDocumentMoniker": "Service\\Dtos\\FlowerDtos\\GetFlowerDto.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Service\\Dtos\\FlowerDtos\\GetFlowerDto.cs",
+              "RelativeToolTip": "Service\\Dtos\\FlowerDtos\\GetFlowerDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:47:53.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FlowerEditDto.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Service\\Dtos\\FlowerDtos\\FlowerEditDto.cs",
+              "RelativeDocumentMoniker": "Service\\Dtos\\FlowerDtos\\FlowerEditDto.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Service\\Dtos\\FlowerDtos\\FlowerEditDto.cs",
+              "RelativeToolTip": "Service\\Dtos\\FlowerDtos\\FlowerEditDto.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwB0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T12:08:05.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FlowerCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Service\\Dtos\\FlowerDtos\\FlowerCreateDto.cs",
+              "RelativeDocumentMoniker": "Service\\Dtos\\FlowerDtos\\FlowerCreateDto.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Service\\Dtos\\FlowerDtos\\FlowerCreateDto.cs",
+              "RelativeToolTip": "Service\\Dtos\\FlowerDtos\\FlowerCreateDto.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA2wBsAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T17:26:51.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SliderService.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Service\\Implementations\\SliderService.cs",
+              "RelativeDocumentMoniker": "Service\\Implementations\\SliderService.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Service\\Implementations\\SliderService.cs",
+              "RelativeToolTip": "Service\\Implementations\\SliderService.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAIBJwBAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T14:24:45.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Service\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Service\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Service\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "Service\\Interfaces\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T13:12:38.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ISliderService.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Service\\Interfaces\\ISliderService.cs",
+              "RelativeDocumentMoniker": "Service\\Interfaces\\ISliderService.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Service\\Interfaces\\ISliderService.cs",
+              "RelativeToolTip": "Service\\Interfaces\\ISliderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T14:24:37.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Service\\Implementations\\AuthService.cs",
+              "RelativeDocumentMoniker": "Service\\Implementations\\AuthService.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Service\\Implementations\\AuthService.cs",
+              "RelativeToolTip": "Service\\Implementations\\AuthService.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAIBJwDMAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T10:32:23.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Flower Project\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Flower Project\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Flower Project\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Flower Project\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAIBJwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T10:48:14.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Service\\Profiles\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Service\\Profiles\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Service\\Profiles\\MappingProfile.cs",
+              "RelativeToolTip": "Service\\Profiles\\MappingProfile.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAIBJwCMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T15:27:39.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "SliderGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Service\\Dtos\\SliderDtos\\SliderGetDto.cs",
+              "RelativeDocumentMoniker": "Service\\Dtos\\SliderDtos\\SliderGetDto.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Service\\Dtos\\SliderDtos\\SliderGetDto.cs",
+              "RelativeToolTip": "Service\\Dtos\\SliderDtos\\SliderGetDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T14:28:26.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "FlowerService.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Service\\Implementations\\FlowerService.cs",
+              "RelativeDocumentMoniker": "Service\\Implementations\\FlowerService.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Service\\Implementations\\FlowerService.cs",
+              "RelativeToolTip": "Service\\Implementations\\FlowerService.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAIBJwI8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:12:29.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IFlowerService.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Service\\Interfaces\\IFlowerService.cs",
+              "RelativeDocumentMoniker": "Service\\Interfaces\\IFlowerService.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Service\\Interfaces\\IFlowerService.cs",
+              "RelativeToolTip": "Service\\Interfaces\\IFlowerService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAIBJwA0AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:11:21.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "PaginatedList.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Service\\Dtos\\PaginatedList.cs",
+              "RelativeDocumentMoniker": "Service\\Dtos\\PaginatedList.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Service\\Dtos\\PaginatedList.cs",
+              "RelativeToolTip": "Service\\Dtos\\PaginatedList.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAIBJwBUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T14:04:23.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "FlowerController.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Flower Project\\Controllers\\FlowerController.cs",
+              "RelativeDocumentMoniker": "Flower Project\\Controllers\\FlowerController.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Flower Project\\Controllers\\FlowerController.cs",
+              "RelativeToolTip": "Flower Project\\Controllers\\FlowerController.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:10:10.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "FlowerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Data\\Repostitories\\Implementations\\FlowerRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repostitories\\Implementations\\FlowerRepository.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Data\\Repostitories\\Implementations\\FlowerRepository.cs",
+              "RelativeToolTip": "Data\\Repostitories\\Implementations\\FlowerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:09:03.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Data\\Repostitories\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repostitories\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Data\\Repostitories\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Data\\Repostitories\\Interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:02:46.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Data\\Repostitories\\Implementations\\Repository.cs",
+              "RelativeDocumentMoniker": "Data\\Repostitories\\Implementations\\Repository.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Data\\Repostitories\\Implementations\\Repository.cs",
+              "RelativeToolTip": "Data\\Repostitories\\Implementations\\Repository.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAnwDAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:08:48.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "20240626170509_FlowerStatus.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Data\\Migrations\\20240626170509_FlowerStatus.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240626170509_FlowerStatus.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Data\\Migrations\\20240626170509_FlowerStatus.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240626170509_FlowerStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAmwAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T17:05:09.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "FlowerImage.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Core\\Entities\\FlowerImage.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\FlowerImage.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Core\\Entities\\FlowerImage.cs",
+              "RelativeToolTip": "Core\\Entities\\FlowerImage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T15:23:12.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Flower.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Core\\Entities\\Flower.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Flower.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Core\\Entities\\Flower.cs",
+              "RelativeToolTip": "Core\\Entities\\Flower.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T08:57:18.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Data\\Repostitories\\Implementations\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repostitories\\Implementations\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Data\\Repostitories\\Implementations\\CategoryRepository.cs",
+              "RelativeToolTip": "Data\\Repostitories\\Implementations\\CategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:09:26.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "FlowerStoreDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Data\\FlowerStoreDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\FlowerStoreDbContext.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Data\\FlowerStoreDbContext.cs",
+              "RelativeToolTip": "Data\\FlowerStoreDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T09:23:03.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Service\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Service\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Service\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "Service\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAswBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T13:12:22.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ISliderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Data\\Repostitories\\Interfaces\\ISliderRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repostitories\\Interfaces\\ISliderRepository.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Data\\Repostitories\\Interfaces\\ISliderRepository.cs",
+              "RelativeToolTip": "Data\\Repostitories\\Interfaces\\ISliderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:07:11.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Service\\Implementations\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Service\\Implementations\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Service\\Implementations\\CategoryService.cs",
+              "RelativeToolTip": "Service\\Implementations\\CategoryService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBJwBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T13:13:15.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "CategoryCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Service\\Dtos\\CategoryCreateDto.cs",
+              "RelativeDocumentMoniker": "Service\\Dtos\\CategoryCreateDto.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Service\\Dtos\\CategoryCreateDto.cs",
+              "RelativeToolTip": "Service\\Dtos\\CategoryCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T15:36:56.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "CategoryEditDto.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Service\\Dtos\\CategoryEditDto.cs",
+              "RelativeDocumentMoniker": "Service\\Dtos\\CategoryEditDto.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Service\\Dtos\\CategoryEditDto.cs",
+              "RelativeToolTip": "Service\\Dtos\\CategoryEditDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T16:00:52.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "FlowerConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Data\\Configurations\\FlowerConfiguration.cs",
+              "RelativeDocumentMoniker": "Data\\Configurations\\FlowerConfiguration.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Data\\Configurations\\FlowerConfiguration.cs",
+              "RelativeToolTip": "Data\\Configurations\\FlowerConfiguration.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvxQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:50:28.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "FlowerTAgConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Data\\Configurations\\FlowerTAgConfiguration.cs",
+              "RelativeDocumentMoniker": "Data\\Configurations\\FlowerTAgConfiguration.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Data\\Configurations\\FlowerTAgConfiguration.cs",
+              "RelativeToolTip": "Data\\Configurations\\FlowerTAgConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:53:02.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "TagConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Data\\Configurations\\TagConfiguration.cs",
+              "RelativeDocumentMoniker": "Data\\Configurations\\TagConfiguration.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Data\\Configurations\\TagConfiguration.cs",
+              "RelativeToolTip": "Data\\Configurations\\TagConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:50:54.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "20240625120447_new2.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Data\\Migrations\\20240625120447_new2.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240625120447_new2.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Data\\Migrations\\20240625120447_new2.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240625120447_new2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T12:04:47.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "FlowerCategoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Data\\Configurations\\FlowerCategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "Data\\Configurations\\FlowerCategoryConfiguration.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Data\\Configurations\\FlowerCategoryConfiguration.cs",
+              "RelativeToolTip": "Data\\Configurations\\FlowerCategoryConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:53:21.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "20240625115417_new.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Data\\Migrations\\20240625115417_new.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240625115417_new.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Data\\Migrations\\20240625115417_new.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240625115417_new.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T11:54:17.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Core\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Core\\Entities\\Category.cs",
+              "RelativeToolTip": "Core\\Entities\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T08:57:40.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "IFlowerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Data\\Repostitories\\Interfaces\\IFlowerRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repostitories\\Interfaces\\IFlowerRepository.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Data\\Repostitories\\Interfaces\\IFlowerRepository.cs",
+              "RelativeToolTip": "Data\\Repostitories\\Interfaces\\IFlowerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:04:58.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "20240625093240_init2.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Data\\Migrations\\20240625093240_init2.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240625093240_init2.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Data\\Migrations\\20240625093240_init2.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240625093240_init2.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAIBJwBMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T09:32:40.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "SliderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Data\\Repostitories\\Implementations\\SliderRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repostitories\\Implementations\\SliderRepository.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Data\\Repostitories\\Implementations\\SliderRepository.cs",
+              "RelativeToolTip": "Data\\Repostitories\\Implementations\\SliderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:09:14.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Data\\Repostitories\\Interfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repostitories\\Interfaces\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Data\\Repostitories\\Interfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "Data\\Repostitories\\Interfaces\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:06:12.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Data.csproj",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Data\\Data.csproj",
+              "RelativeDocumentMoniker": "Data\\Data.csproj",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Data\\Data.csproj",
+              "RelativeToolTip": "Data\\Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-24T15:24:44.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "AuditEntity.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Core\\Entities\\AuditEntity.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\AuditEntity.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Core\\Entities\\AuditEntity.cs",
+              "RelativeToolTip": "Core\\Entities\\AuditEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T09:19:32.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Core\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Core\\Entities\\AppUser.cs",
+              "RelativeToolTip": "Core\\Entities\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T09:12:39.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "FlowerStoreDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Data\\Migrations\\FlowerStoreDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\FlowerStoreDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Data\\Migrations\\FlowerStoreDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Data\\Migrations\\FlowerStoreDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAP0AAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T13:08:48.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "20240624130841_newinit.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Data\\Migrations\\20240624130841_newinit.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240624130841_newinit.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Data\\Migrations\\20240624130841_newinit.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240624130841_newinit.cs",
+              "ViewState": "AQIAADkAAAAAAAAAACBjwFEAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T13:08:41.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "20240624130413_change.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Data\\Migrations\\20240624130413_change.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Asus\\Desktop\\Flower Project\\Data\\Migrations\\20240624130413_change.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Flower Project\\Data\\Migrations\\20240624130413_change.cs",
+              "RelativeToolTip": "..\\..\\..\\Asus\\Desktop\\Flower Project\\Data\\Migrations\\20240624130413_change.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T13:04:13.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "FlowerProject",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Flower Project\\FlowerProject.csproj",
+              "RelativeDocumentMoniker": "Flower Project\\FlowerProject.csproj",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Flower Project\\FlowerProject.csproj",
+              "RelativeToolTip": "Flower Project\\FlowerProject.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-24T12:59:10.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Core.csproj",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Core\\Core.csproj",
+              "RelativeDocumentMoniker": "Core\\Core.csproj",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Core\\Core.csproj",
+              "RelativeToolTip": "Core\\Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-24T12:57:42.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "FlowerProject.csproj",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Flower Project\\FlowerProject.csproj",
+              "RelativeDocumentMoniker": "Flower Project\\FlowerProject.csproj",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Flower Project\\FlowerProject.csproj",
+              "RelativeToolTip": "Flower Project\\FlowerProject.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-24T08:56:14.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "CategoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Data\\Configurations\\CategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "Data\\Configurations\\CategoryConfiguration.cs",
+              "ToolTip": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Data\\Configurations\\CategoryConfiguration.cs",
+              "RelativeToolTip": "Data\\Configurations\\CategoryConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:50:41.306Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
